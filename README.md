@@ -8,7 +8,7 @@ MTG Confidant is a *budget tutor*, so you will input your desired *EXPENSIVE CAR
 
 
 # Instalation
-
+ In the command prompt or git-bash:
 ### Install and create virtualenv 
 >> pip install virtualenv
 
@@ -16,9 +16,9 @@ MTG Confidant is a *budget tutor*, so you will input your desired *EXPENSIVE CAR
 
 ### Activate virtual enviroment
 
->> source /venv/Script/activate **[Linux only]**
+>> source /venv/Script/activate **[bash only]**
 
->> \venv\Scripts\activate **[Windows only]**
+>> \venv\Scripts\activate **[command prompt only]**
 
 ### Install packages
 
